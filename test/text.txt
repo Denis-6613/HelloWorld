@@ -4,4 +4,8 @@ Erlan loves Python.
 
 New branch - new text
 
+<<<<<<< HEAD
 Now this from branch - La La La
+=======
+Modification in master
+>>>>>>> dc27c7b21ddda5c2142ac0116eadb0d586b1af75
